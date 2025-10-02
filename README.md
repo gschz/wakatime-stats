@@ -3,14 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 04 March 2025 - To: 30 September 2025
+From: 04 March 2025 - To: 01 October 2025
 
-Total Time: 456 hrs 55 mins
+Total Time: 458 hrs 22 mins
 
-TypeScript                 214 hrs 58 mins >>>>>>>>>>>--------------   44.37 %
-PHP                        107 hrs 58 mins >>>>>>-------------------   22.29 %
-Markdown                   77 hrs 15 mins  >>>>---------------------   15.95 %
-Other                      27 hrs 32 mins  >------------------------   05.68 %
+TypeScript                 216 hrs 5 mins  >>>>>>>>>>>--------------   44.47 %
+PHP                        108 hrs 15 mins >>>>>>-------------------   22.28 %
+Markdown                   77 hrs 15 mins  >>>>---------------------   15.90 %
+Other                      27 hrs 34 mins  >------------------------   05.67 %
 ```
 
 <!--END_SECTION:waka-->
